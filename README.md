@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Manoj Poudel 👋</h1>
 <h3 align="center">Software Engineer — Mobility & Robotics | Unreal Engine · Python · Blender 3D</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Real-time+3D+for+Mobility+%26+Robotics+Simulation;Unreal+Engine+5+%7C+Python+%7C+Blender;Building+tools+that+bridge+AI+and+engineering" alt="Typing SVG" />
-</p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/manojpoudel0429/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
