@@ -11,7 +11,7 @@
 
 ---
 
-### 🧭 About Me
+###  About Me
 
 - 🚗 Software Developer — **Mobility & Robotics** at a Japanese engineering company, based in **Tokyo, Japan**
 - 🎮 Building **real-time 3D simulation environments in Unreal Engine 5** for mobility & robotics applications
