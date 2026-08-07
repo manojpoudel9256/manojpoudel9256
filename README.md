@@ -23,7 +23,7 @@
 
 ---
 
-### 🧰 Tech Stack
+###  Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
