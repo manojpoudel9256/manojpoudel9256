@@ -44,7 +44,7 @@
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 | Project | Description |
 |---|---|
