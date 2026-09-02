@@ -54,7 +54,7 @@
 | 👁️ [**Realtime Face Recognition**](https://github.com/manojpoudel9256/realtime-face-recognition) | Real-time face-recognition system built from scratch — live camera capture, training pipeline, confidence-based recognition |
 | 💰 [**AI Budget Tracker**](https://github.com/manojpoudel9256/budget-tracker) | Personal finance tool that reads receipts with Gemini vision AI, sets budgets, and generates spending insights from photos |
 | ⛅ [**Weather & Travel Planner**](https://github.com/manojpoudel9256/weather-travel-planner) | Full-stack app recommending destinations by optimal weather — real-time search, 5-day forecasts, bilingual EN/日本語 |
-| 📚 [**StudyTrack Pro**](https://github.com/manojpoudel9256/studytrack-pro) | Gamified study tracker — focus timer, streaks and XP, interactive analytics charts, weather-adaptive UI |
+|  [**StudyTrack Pro**](https://github.com/manojpoudel9256/studytrack-pro) | Gamified study tracker — focus timer, streaks and XP, interactive analytics charts, weather-adaptive UI |
 |  [**Image Compressor Pro**](https://github.com/manojpoudel9256/ImageCompressorPro) | Privacy-first image optimizer running entirely in the browser — batch compression, smart quality presets, no uploads |
 
 *See [all repositories →](https://github.com/manojpoudel9256?tab=repositories)*
