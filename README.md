@@ -51,7 +51,7 @@
 | 🗜️ [**GLB Optimizer**](https://github.com/manojpoudel9256/GLBOptimizer) | 100% local, browser-based tool that compresses `.glb` 3D models for Unreal Engine 5 — real-time viewer, before/after comparison, per-mesh inspector |
 | 📊 [**GLB Analyzer**](https://github.com/manojpoudel9256/GLBAnalyzer) | Node toolkit that inspects `.glb` models — mesh, texture, and size reports — plus a UE5-safe compression pipeline |
 | 🗻 [**EVEREST — Travel Experience**](https://github.com/manojpoudel9256/travel_site) | Cinematic scroll-driven landing page — 340 scroll-scrubbed film frames from an airplane window to the roof of the world |
-| 👁️ [**Realtime Face Recognition**](https://github.com/manojpoudel9256/realtime-face-recognition) | Real-time face-recognition system built from scratch — live camera capture, training pipeline, confidence-based recognition |
+|  [**Realtime Face Recognition**](https://github.com/manojpoudel9256/realtime-face-recognition) | Real-time face-recognition system built from scratch — live camera capture, training pipeline, confidence-based recognition |
 |  [**AI Budget Tracker**](https://github.com/manojpoudel9256/budget-tracker) | Personal finance tool that reads receipts with Gemini vision AI, sets budgets, and generates spending insights from photos |
 |  [**Weather & Travel Planner**](https://github.com/manojpoudel9256/weather-travel-planner) | Full-stack app recommending destinations by optimal weather — real-time search, 5-day forecasts, bilingual EN/日本語 |
 |  [**StudyTrack Pro**](https://github.com/manojpoudel9256/studytrack-pro) | Gamified study tracker — focus timer, streaks and XP, interactive analytics charts, weather-adaptive UI |
