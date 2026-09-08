@@ -5,7 +5,17 @@
 **Software Engineer** — Mobility, Robotics & 3D Simulation
 Tokyo, Japan · JLPT N1 · TOEIC 845
 
-[**Portfolio**](https://pro-portfolio-mocha.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/manojpoudel0429/) · [X](https://x.com/manojpoudel9256) · [Email](mailto:poudelmanoj604@gmail.com)
+### [**View portfolio ↗**](https://pro-portfolio-mocha.vercel.app/)
+
+<a href="https://www.linkedin.com/in/manojpoudel0429/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="24" alt="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="https://x.com/manojpoudel9256"><img src="https://cdn.simpleicons.org/x/6E7681" height="24" alt="X"/></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/manojpoudel_/"><img src="https://cdn.simpleicons.org/instagram/E4405F" height="24" alt="Instagram"/></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/YOUR_USERNAME"><img src="https://cdn.simpleicons.org/facebook/0866FF" height="24" alt="Facebook"/></a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/@YOUR_HANDLE"><img src="https://cdn.simpleicons.org/youtube/FF0000" height="24" alt="YouTube"/></a>&nbsp;&nbsp;
+<a href="https://wa.me/818063856232"><img src="https://cdn.simpleicons.org/whatsapp/25D366" height="24" alt="WhatsApp"/></a>&nbsp;&nbsp;
+<a href="https://t.me/MANOJPOUDEL9898"><img src="https://cdn.simpleicons.org/telegram/26A5E4" height="24" alt="Telegram"/></a>&nbsp;&nbsp;
+<a href="https://line.me/ti/p/FDAUJfLRfh"><img src="https://cdn.simpleicons.org/line/00C300" height="24" alt="LINE"/></a>&nbsp;&nbsp;
+<a href="mailto:poudelmanoj604@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="24" alt="Email"/></a>
 
 </div>
 
