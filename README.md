@@ -7,7 +7,7 @@ Tokyo, Japan · JLPT N1 · TOEIC 845
 
 ### [**View portfolio ↗**](https://pro-portfolio-mocha.vercel.app/)
 
-<a href="https://www.linkedin.com/in/manojpoudel0429/"><img src="assets/linkedin.svg" height="24" alt="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/manojpoudel0429/"><img src="linkedin.svg" height="24" alt="LinkedIn"/></a>&nbsp;&nbsp;
 <a href="https://x.com/manojpoudel9256"><img src="https://cdn.simpleicons.org/x/6E7681" height="24" alt="X"/></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/manojpoudel_/"><img src="https://cdn.simpleicons.org/instagram/E4405F" height="24" alt="Instagram"/></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/YOUR_USERNAME"><img src="https://cdn.simpleicons.org/facebook/0866FF" height="24" alt="Facebook"/></a>&nbsp;&nbsp;
