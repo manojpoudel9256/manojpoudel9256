@@ -3,7 +3,7 @@
 # Manoj Poudel
 
 **Software Engineer** — Mobility, Robotics & 3D Simulation
-Tokyo, Japan · JLPT N1 · TOEIC 845
+Tokyo, Japan
 
 ### [**View portfolio ↗**](https://pro-portfolio-mocha.vercel.app/)
 
@@ -16,6 +16,10 @@ Tokyo, Japan · JLPT N1 · TOEIC 845
 <a href="https://t.me/MANOJPOUDEL9898"><img src="https://cdn.simpleicons.org/telegram/26A5E4" height="24" alt="Telegram"/></a>&nbsp;&nbsp;
 <a href="https://line.me/ti/p/FDAUJfLRfh"><img src="https://cdn.simpleicons.org/line/00C300" height="24" alt="LINE"/></a>&nbsp;&nbsp;
 <a href="mailto:poudelmanoj604@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="24" alt="Email"/></a>
+
+<br>
+
+<img src="credentials.svg" width="720" alt="JLPT N1 (passed July 2026) and TOEIC 845 — Listening 465, Reading 380, CEFR B2"/>
 
 </div>
 
