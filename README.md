@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Manoj Poudel 👋</h1>
+<h1 align="center">Hi, I'm Manoj Poudel </h1>
 <h3 align="center">Software Engineer — Mobility & Robotics | Unreal Engine · Python · Blender 3D</h3>
 
 
