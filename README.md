@@ -74,7 +74,7 @@ day-to-day loop, not as a novelty.
 ### Background
 
 **Software Developer — Mobility, Robotics & 3D Simulation**
-Japanese engineering company, Tokyo · Apr 2026 — Present
+Japanese engineering company, Tokyo   Apr 2026 — Present
 
 **Hokkaido Cyber Creators**, IT Department · 2024 — 2026
 Network, cloud and cybersecurity, alongside a full web development curriculum.
