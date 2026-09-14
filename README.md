@@ -79,7 +79,7 @@ Japanese engineering company, Tokyo  Apr 2026 — Present
 **Hokkaido Cyber Creators**, IT Department · 2024 — 2026
 Network, cloud and cybersecurity, alongside a full web development curriculum.
 
-**Certifications** — Cisco Networking Basics · AWS Amazon Q Developer Fundamentals ·
+**Certifications** — Cisco Networking Basics · AWS Amazon Q Developer Fundamentals.
 IBM Generative AI Essentials (LLMs) · Oracle Certified Java Programmer, Bronze SE
 
 ---
