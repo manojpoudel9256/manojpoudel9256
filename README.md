@@ -41,7 +41,7 @@ budgets, pivots and scale correct so nothing breaks on import.
 `.glb` models: polygon counts, texture sizes, mesh simplification, before/after comparison.
 
 **AI-assisted development** — Claude Code, Blender MCP and generative tooling as part of the
-day-to-day loop, not as a novelty.
+day-to-day loop, not as a novelty .
 
 ---
 
